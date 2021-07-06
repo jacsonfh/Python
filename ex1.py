@@ -17,4 +17,14 @@ __maintainer__ = "JFH"
 __email__ = "jacsonfh@gmail.com"
 __status__ = "Test"
 
-
+"""
+#Exemplos de Print
+print("Olá Mundo!")
+print(7+4)
+print("7"+"4")
+"""
+#Variáveis para o python são objetos.
+nome='Jacson'
+idade=44
+peso=100
+print(nome,idade,peso)
