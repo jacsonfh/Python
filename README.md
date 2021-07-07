@@ -2,10 +2,10 @@
 
 # Python Training
 
-IDEs\
-PhyCharm\
-M Code\
-Eclipse
+## IDEs\
+- PhyCharm\
+- M Code\
+- Eclipse
 
 1+ Basico (Linguagem, Scripts)\ 
 2+ POO (Orientação a Objetos)\
