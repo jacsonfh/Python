@@ -5,6 +5,10 @@ PhyCharm
 M Code
 Eclipse
 
+1+ Basico (Linguagem, Scripts)
+2+ POO (Orientação a Objetos)
+3+ Persisir dados no BD.
+4+ 
 
 MVC-MVT
 Model View Controler
