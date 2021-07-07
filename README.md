@@ -9,10 +9,19 @@ Eclipse
 2+ POO (Orientação a Objetos)\
 3+ Persisir dados no BD.\
 4+ MCV e MTV\
-5+ Framework (DJango)
+5+ Framework (DJango)\
+6+ Modelo REST(GET, POST, PUT, DELETE) 
+
++6.1 Codigos de estado do servidor:\
+1XX - Informativo\
+2XX - Sucesso\
+3XX - Redirecionamento\
+4XX - Erro no Cliente\
+5XX - Erro no Servidor
 
 
-Ver API Rest
+
+API
 
 MVC-MTV\
 Model View Controler\
