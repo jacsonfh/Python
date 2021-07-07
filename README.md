@@ -1,18 +1,22 @@
 # Python Training
 
-IDEs
-PhyCharm
-M Code
-Eclipse
+IDEs\
+PhyCharm\
+M Code\
+Eclipse\
 
-1+ Basico (Linguagem, Scripts)
+1+ Basico (Linguagem, Scripts) 
 2+ POO (Orientação a Objetos)
 3+ Persisir dados no BD.
-4+ 
+4+ MCV e MTV
+5+ Framework (DJango)
 
-MVC-MVT
+
+Ver API Rest
+
+MVC-MTV
 Model View Controler
-Model View and Template
+Model Template(View) View(Controler)
 
 
 Python Frameworks 
