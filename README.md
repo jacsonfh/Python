@@ -12,7 +12,7 @@ Eclipse
 3+ Persisir dados no BD.\
 4+ MCV e MTV\
 5+ Framework (DJango)\
-6+ Modelo REST(GET, POST, PUT, DELETE) 
+6+ Modelo API, REST(GET, POST, PUT, DELETE) RESTFUL
 
 +6.1 Codigos de estado do servidor:\
 1XX - Informativo\
