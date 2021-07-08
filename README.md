@@ -4,7 +4,7 @@
 
 ## IDEs
 - PyCharm 👍
-- M Code 🔥
+- M Code 👍
 - Eclipse 👍
 
 ## Sequência de Estudo.
@@ -38,6 +38,6 @@
 
 [Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)
 
-## Controle de Versão e Repositório :+1:
+## Controle de Versão e Repositório :octocat:
 - Git :+1:
 - GitHub :+1:
