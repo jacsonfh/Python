@@ -3,13 +3,13 @@
 # Python Training
 
 ## IDEs
-- PyCharm
-- M Code
-- Eclipse
+- PyCharm 🔥
+- M Code :+1:
+- Eclipse 👍
 
 ## Sequência de Estudo.
-- 1 Basico (Linguagem, Scripts)
-- 2 POO (Orientação a Objetos)
+- 1 Basico (Linguagem, Scripts) 🔥
+- 2 POO (Orientação a Objetos) 🔥
 - 3 Persisir dados no BD.
 - 4 MCV e MTV
 - 5 Framework (DJango)
@@ -39,6 +39,6 @@
 
 [Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)
 
-## Controle de Versão e Repositório
-- Git
-- GitHub
+## Controle de Versão e Repositório :+1:
+- Git :+1:
+- GitHub :+1:
