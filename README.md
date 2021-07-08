@@ -3,7 +3,7 @@
 # Python Training
 
 ## IDEs
-- PhyCharm
+- PyCharm
 - M Code
 - Eclipse
 
