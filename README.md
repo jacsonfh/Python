@@ -3,8 +3,8 @@
 # Python Training
 
 ## IDEs
-- PyCharm 🔥
-- M Code :+1:
+- PyCharm 👍
+- M Code 🔥
 - Eclipse 👍
 
 ## Sequência de Estudo.
