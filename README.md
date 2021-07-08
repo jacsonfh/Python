@@ -27,9 +27,10 @@
 - API API é uma abreviação para Application Programming Interface, ou, em português, interface de programação de aplicação.
 
 ## Frameworks Python
-1) Django, o framework Python de código aberto;\
-2) Flask, o micro-framework;\
-3) Web2py, framework Python autocontido;\
-4) CherryPy, para desenvolvimento ágil;\
+1) Django, o framework Python de código aberto;
+2) Flask, o micro-framework;
+3) Web2py, framework Python autocontido;
+4) CherryPy, para desenvolvimento ágil;
 5) Bottle: o framework Python rápido, simples e leve;
-[Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)\
+
+[Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)
