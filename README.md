@@ -24,8 +24,8 @@
 
 API 
 
-MVC-MTV\
-- Model View Controler\
+MVC-MTV
+- Model View Controler
 - Model Template(View) View(Controler)
 
 [Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)\
