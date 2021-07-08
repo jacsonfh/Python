@@ -38,3 +38,7 @@
 5) Bottle: o framework Python rápido, simples e leve;
 
 [Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)
+
+## Controle de Versão e Repositório
+- Git
+- GitHub
