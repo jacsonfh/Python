@@ -14,12 +14,12 @@
 - 4 MCV e MTV
 - 5 Framework (DJango)
 - 6 Modelo API, REST(GET, POST, PUT, DELETE) RESTFUL
--- 6.1 Codigos de estado do servidor:
---- 1XX - Informativo
---- 2XX - Sucesso
---- 3XX - Redirecionamento
---- 4XX - Erro no Cliente
---- 5XX - Erro no Servidor
+- 6.1 Codigos de estado do servidor:
+- 1XX - Informativo
+- 2XX - Sucesso
+- 3XX - Redirecionamento
+- 4XX - Erro no Cliente
+- 5XX - Erro no Servidor
 
 ## MVC-MTV-API
 - Model View Controler
