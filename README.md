@@ -12,9 +12,8 @@
 3+ Persisir dados no BD.\
 4+ MCV e MTV\
 5+ Framework (DJango)\
-6+ Modelo API, REST(GET, POST, PUT, DELETE) RESTFUL
-
-+6.1 Codigos de estado do servidor:\
+6+ Modelo API, REST(GET, POST, PUT, DELETE) RESTFUL\
+- 6.1 Codigos de estado do servidor:\
 1XX - Informativo\
 2XX - Sucesso\
 3XX - Redirecionamento\
@@ -23,17 +22,14 @@
 
 
 
-API
+API 
 
 MVC-MTV\
-Model View Controler\
-Model Template(View) View(Controler)
-
-
-Python Frameworks 
+- Model View Controler\
+- Model Template(View) View(Controler)
 
 [Geekhunter](https://blog.geekhunter.com.br/os-5-melhores-frameworks-de-python/)\
-1 Frameworks Python;\
+## Frameworks Python
 2 Django, o framework Python de código aberto;\
 3 Flask, o micro-framework;\
 4 Web2py, framework Python autocontido;\
