@@ -16,3 +16,4 @@ print(qqc.isspace(), 'é Espaço.')
 print(qqc.isupper(), 'é maiúsculo.')
 print(qqc.islower(), 'é minúsculo.')
 print(qqc.isnumeric(), 'é número.')
+print(qqc.istitle()), 'A primeira letra é maiúscula.'
