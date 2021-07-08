@@ -21,6 +21,10 @@
 - 4XX - Erro no Cliente
 - 5XX - Erro no Servidor
 
+## UI
+- Qt
+- Glide
+
 ## MVC-MTV-API
 - Model View Controler
 - Model Template(View) View(Controler)
