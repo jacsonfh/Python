@@ -10,25 +10,23 @@
 ## Sequência de Estudo.
 - 1 Basico (Linguagem, Scripts) 🔥
 - 2 POO (Orientação a Objetos) 🔥
-- 3 Persisir dados no BD.
+- 3 Persisir Dados. (MariaDB, Postgres, Arquivo)
 - 4 MCV e MTV
+ - Model View Controler
+ - Model Template(View) View(Controler)
 - 5 Framework (DJango)
 - 6 Modelo API, REST(GET, POST, PUT, DELETE) RESTFUL
-- 6.1 Codigos de estado do servidor:
-- 1XX - Informativo
-- 2XX - Sucesso
-- 3XX - Redirecionamento
-- 4XX - Erro no Cliente
-- 5XX - Erro no Servidor
+ - API API é uma abreviação para Application Programming Interface, ou, em português, interface de programação de aplicação. 
+ - 6.1 Codigos de estado do servidor:
+ - 1XX - Informativo
+ - 2XX - Sucesso
+ - 3XX - Redirecionamento
+ - 4XX - Erro no Cliente
+ - 5XX - Erro no Servidor
 
 ## UI
 - Qt
-- Glide
-
-## MVC-MTV-API
-- Model View Controler
-- Model Template(View) View(Controler)
-- API API é uma abreviação para Application Programming Interface, ou, em português, interface de programação de aplicação.
+- Glide 
 
 ## Frameworks Python
 1) Django, o framework Python de código aberto;
