@@ -15,11 +15,20 @@ __status__ = "Estudo de POO"
 from pessoa import Pessoa
 
 p1 = Pessoa('Luiz', 29)
+p2 = Pessoa('João', 44)
 
-p1.comer('maçã')
-p1.parar_comer()
-p1.parar_comer()
-p1.comer('maçã')
+#p1.comer('maçã')
+#p1.parar_comer()
+#p1.parar_comer()
+#p1.comer('maçã')
 
+#p1.comer('maçã')
+#p1.falar('POO')
+#p1.parar_comer()
+#p1.falar('POO')
+#p1.comer('Pera')
 
-
+print(p1.ano_atual)
+print(p1.get_ano_nascimento())
+print(p2.ano_atual)
+print(p2.get_ano_nascimento())
