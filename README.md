@@ -25,6 +25,7 @@
   * 3XX - Redirecionamento
   * 4XX - Erro no Cliente
   * 5XX - Erro no Servidor
+[HTTP Response]{https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status}
 
 ## UI
 - Qt
