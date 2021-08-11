@@ -30,7 +30,7 @@
 ## UI
 - Qt🔥 QtDesign
 - Glide👍 
-- Tkinter👍  
+- Tkinter👍 [Layout](https://www.delftstack.com/pt/tutorial/tkinter-tutorial/tkinter-geometry-managers/)
 
 ## Frameworks Python
 1) Django, o framework Python de código aberto;
