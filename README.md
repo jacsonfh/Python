@@ -28,7 +28,7 @@
   * [HTTP Response](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)🔥 
 
 ## UI
-- Qt🔥 QtDesign
+- [Qt](https://realpython.com/python-pyqt-layout/)🔥 QtDesign
 - Glide👍 
 - Tkinter👍 [Layout](https://www.delftstack.com/pt/tutorial/tkinter-tutorial/tkinter-geometry-managers/)
 
