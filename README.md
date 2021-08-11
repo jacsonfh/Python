@@ -28,9 +28,9 @@
   * [HTTP Response](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)🔥 
 
 ## UI
-- Qt
-- Glide🔥 
-- Tkinter🔥  
+- Qt🔥 QtDesign
+- Glide👍 
+- Tkinter👍  
 
 ## Frameworks Python
 1) Django, o framework Python de código aberto;
