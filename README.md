@@ -28,9 +28,9 @@
   * [HTTP Response](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)🔥 
 
 ## UI
-- Qt
-- Glide🔥 
-- Tkinter🔥  
+- [Qt](https://realpython.com/python-pyqt-layout/)🔥 QtDesign
+- Glide👍 
+- Tkinter👍 [Layout](https://www.delftstack.com/pt/tutorial/tkinter-tutorial/tkinter-geometry-managers/)
 
 ## Frameworks Python
 1) Django, o framework Python de código aberto;
