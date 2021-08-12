@@ -1,5 +1,17 @@
-from tkinter import *
+#
+"""
+Caso ocorra problema no tkinter.
+brew install python3 --with-tcl-tk
+brew install tcl-tk
+"""
+
+try:
+   from tkinter import *
+except:
+   from Tkinter import *
+   
 window=Tk()
+
 
 def donothing():
    filewin = Toplevel(window)
@@ -9,7 +21,9 @@ def donothing():
 menubar = Menu(window)
 filemenu = Menu(menubar, tearoff=0)
 
-imgnewfile = PhotoImage(file='newfile.png')
+
+caminho = "/Users/jacsonheiderscheidt/Google Drive/1_PESSOAL/NET_SEC/GitHub/Python/modelos/" #apagar essa linha de m"
+imgnewfile = PhotoImage(file="./img/newfile.png")
 
 filemenu.add_command(label=" Novo", image=imgnewfile, compound="left", command=donothing)
 filemenu.add_command(label="Open", command=donothing)

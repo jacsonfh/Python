@@ -12,8 +12,31 @@ frmPrincipal = tkinter.Tk()
 frmPrincipal.title("Allpy")
 frmPrincipal.minsize("400","300")
 
-lblMenu = Label(frmPrincipal, text="Menu")
-lblMenu.grid(row=1, column=1)
+def fnArquivo:
+    print(" ")
+
+def fnEditar:
+    print("1")
+
+
+var1 = ['a','b','c']
+mapa = {"arquivo":fnUsuario,"Editar":fnEditar}
+for i in mapa:
+    lblMenu = Label(frmPrincipal, text = i['Arquivo'])
+    lblMenu.grid(row=indice+1, column=indice+1)
+    indice = indice + 1
+
+
+
+
+indice = 1
+for j in var1:
+    lblMenu = Label(frmPrincipal, text = j)
+    lblMenu.grid(row=indice+1, column=indice+1)
+    indice = indice + 1
+
+#lblMenu = Label(frmPrincipal, text="Menu")
+#lblMenu.grid(row=1, column=1)
 #lblMenu.pack(side=LEFT)
 
 txtMenu = StringVar()
