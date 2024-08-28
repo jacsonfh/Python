@@ -3,34 +3,34 @@
 # Python Training
 
 ## IDEs
-- PyCharm 👍
-- M Code 👍
-- Eclipse 👍
+- PyCharm 
+- M Code 
+- Eclipse 
 
 ## Sequência de Estudo.
-* 1 Basico (Linguagem, Scripts) 👍
-* 2 POO (Orientação a Objetos) 🔥 
-  * [POO, Encapsulamento, Herança, Polimorfismo](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos) 🔥
+* 1 Basico (Linguagem, Scripts) 
+* 2 POO (Orientação a Objetos) 
+  * [POO, Encapsulamento, Herança, Polimorfismo](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos) 
   * Modularização
-* 3 Persisir Dados. (MariaDB, Postgres, Arquivo)🔥 
+* 3 Persisir Dados. (MariaDB, Postgres, Arquivo) 
 * 4 MCV e MTV
   * Model View Controler
   * Model Template(View) View(Controler)
 * 5 Framework (DJango)
 * 6 Modelo API, REST(GET, POST, PUT, DELETE) RESTFUL
   * API API é uma abreviação para Application Programming Interface, ou, em português, interface de programação de aplicação. 
-  * 6.1 Codigos de estado do servidor: 🔥 
-  * 1XX - Informativo🔥 
-  * 2XX - Sucesso🔥 
-  * 3XX - Redirecionamento🔥 
-  * 4XX - Erro no Cliente🔥 
-  * 5XX - Erro no Servidor🔥 
-  * [HTTP Response](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)🔥 
+  * 6.1 Codigos de estado do servidor: 
+  * 1XX - Informativo
+  * 2XX - Sucesso
+  * 3XX - Redirecionamento 
+  * 4XX - Erro no Cliente
+  * 5XX - Erro no Servidor
+  * [HTTP Response](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
 ## UI
-- [Qt](https://realpython.com/python-pyqt-layout/)🔥 QtDesign
-- Glide👍 
-- Tkinter👍 [Layout](https://www.delftstack.com/pt/tutorial/tkinter-tutorial/tkinter-geometry-managers/)
+- [Qt](https://realpython.com/python-pyqt-layout/) QtDesign
+- Glide 
+- Tkinter [Layout](https://www.delftstack.com/pt/tutorial/tkinter-tutorial/tkinter-geometry-managers/)
 
 ## Frameworks Python
 1) Django, o framework Python de código aberto;
