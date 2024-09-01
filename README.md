@@ -10,7 +10,7 @@
 ## Sequência de Estudo.
 * 1 Basico (Linguagem, Scripts) 
 * 2 POO (Orientação a Objetos) 
-  * [POO, Encapsulamento, Herança, Polimorfismo](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos) 
+  * POO, Encapsulamento, Herança, Polimorfismo 
   * Modularização
 * 3 Persisir Dados. (MariaDB, Postgres, Arquivo) 
 * 4 MCV e MTV
