@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/3974176/124803514-98814e00-df2f-11eb-98ec-46daa5325bb9.png)
 
-# Fundamentos de Python
+# Estudos de Python
 
 1-2 Instalação e Configuração
     
